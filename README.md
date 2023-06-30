@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Blackheadbeast
-- 👀 I’m interested in ... programming  
-- 🌱 I’m currently learning ... java script from georgia state university 
-- 💞️ I’m looking to collaborate on ...anything really    
-- 📫 How to reach me ... you can reach me by instagram @mahadghazipura
+# 💫 About Me:
+👋 Hello there! Welcome to my GitHub profile!<br><br>I'm Mahad Ghazipura, a passionate software engineer with a focus on Web Development and Data Analyst. I love leveraging technology to solve complex problems and create innovative solutions. My journey in the world of programming began when I was introduced to C++ in Highschool.<br><br>🚀 What I do:<br>- I specialize in Data Science and Analytics, Software Engineering & Computer Graphics, and Visualization with hands-on experience in Java, Python, SQL, ETC.<br>- I enjoy working on Natural Language Processing, Mobile App Development, Web Application Development, Animation, and Special Effects pushing the boundaries of what's possible.<br>- I'm constantly exploring new technologies and staying updated with the latest trends in the field.<br><br>🌟 Highlights:<br>- Doing my Bachelor of Science in Computer Science from Georgia State University.<br>- I have been granted Scholarships throughout my academic career.<br>- Have been working with PlayOn! Sports/NFHS Network for almost a year now.<br><br>💬 Let's Connect:<br>- I'm always excited to collaborate on interesting projects or discuss new ideas.<br>- Feel free to reach out to me via Linkedin https://www.linkedin.com/in/mahad-ghazipura-2662b0195.<br><br>Thank you for visiting my profile! I'm thrilled to connect with fellow developers, share knowledge, and contribute to the thriving developer community. Let's build something unique together!<br><br>Happy coding! 🚀<br>
 
-<!---
-Blackheadbeast/Blackheadbeast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mahadghazipura) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahad Ghazipura) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Blackheadbeast&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Blackheadbeast&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackheadbeast&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Blackheadbeast&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
